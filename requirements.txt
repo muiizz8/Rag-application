@@ -1,0 +1,8 @@
+langchain
+ibm-watsonx-ai
+wget
+sentence-transformers
+chromadb
+ipykernel
+jupyter
+ibm-watson-machine-learning
