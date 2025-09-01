@@ -37,8 +37,7 @@ The core of this project is the `Rag.ipynb` notebook, which walks you through th
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/jules-dot-ai/rag-app-example.git
-    cd rag-app-example
+    git clone https://github.com/muiizz8/Rag-application
     ```
 
 2.  **Install dependencies:**
